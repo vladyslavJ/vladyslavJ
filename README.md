@@ -1,6 +1,6 @@
 ## I'm a beginner software engineer 🎯
 
-<code>🎓 Education: Student at [KPI](https://kpi.ua/), FICE, Information Management Systems and Technologies</code>
+<code>🎓 Education: Student at [KPI](https://kpi.ua/), FICE, Information Management Systems and Technologies (since 2023)</code>
 <code>💼 [Certificates](CERTIFICATES.md)</code><br>
 <code>👷 Specialization: Backend Development</code>
 <code>🔧 [Skills](SKILLS.md)</code>
