@@ -1,6 +1,7 @@
 ## I'm a beginner software engineer 🎯
 
 <code>🎓 Education: Student at [KPI](https://kpi.ua/), FICE, Information Management Systems and Technologies</code>
+<code>💼 [Certificates](CERTIFICATES.md)</code>
 <code>👷 Speciality: Backend Developer</code>
 <code>🔧 [Skills](SKILLS.md)</code>
 <code>🎲 [Projects](PROJECTS.md)</code>
