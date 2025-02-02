@@ -2,7 +2,7 @@
 
 <code>🎓 Education: Student at [KPI](https://kpi.ua/), FICE, Information Management Systems and Technologies</code>
 <code>💼 [Certificates](CERTIFICATES.md)</code><br>
-<code>👷 Specialization: Backend Developer</code>
+<code>👷 Specialization: Backend Development</code>
 <code>🔧 [Skills](SKILLS.md)</code>
 <code>🎲 [Projects](PROJECTS.md)</code>
 <code>🧑‍💻 Languages and Tools: JavaScript, TypeScript, Node.js</code><br>
