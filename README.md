@@ -10,3 +10,4 @@
 ](mailto:zhukov.vladyslav.vitaliyovych@gmail.com)</code>
 
 <code>📝 [Resume](#)</code>
+<code>🥋 [LinkedIn](https://www.linkedin.com/in/vladyslav-zhukov-946b31342/)</code>
