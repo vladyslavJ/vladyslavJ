@@ -1,4 +1,4 @@
-## I'm a Senior Gambling Software Engineer 🎯
+## I'm a Software Engineer 🎯
 
 <code>🎓 Education: Student at [KPI](https://kpi.ua/), FICE, Information Management Systems and Technologies (since 2023)</code>
 <code>💼 [Certificates](CERTIFICATES.md)</code><br>
